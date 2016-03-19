@@ -23,9 +23,4 @@ public enum Length implements Unit{
         return Length.INCH;
     }
 
-    @Override
-    public String toString() {
-        return super.toString();
-    }
-
 }
